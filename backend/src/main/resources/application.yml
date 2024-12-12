@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: hieuphinehehe
+  profiles:
+    active: dev
+
